@@ -1,0 +1,140 @@
+.banner{
+    background-image: url(../images/banner/banner1.png);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    
+}
+
+.paragraph {
+    width: 80%;
+    margin: auto;
+    text-align: right;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: flex-end;
+    flex-direction: column;
+}
+.Contact{
+    background-color: #F15B22;
+    color: #FFFF;
+    border: none;
+    padding: 12px;
+    border-radius: 4px;
+
+}  
+.banner-02{
+    background-image: url(../images/person.png);
+    width: 80%;
+    margin: auto;
+    height: 90vh;
+    margin-top: 7%;
+    background-repeat: no-repeat;
+}
+.paragraph-2{
+    width: 80%;
+    margin: auto;
+    text-align: left;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: flex-end;
+    flex-direction: column;  
+}
+ul , h2{
+    margin-right: 50px;
+}
+
+/* Plan Sector */
+
+.plan{
+    text-align: center;
+}
+.item {
+    padding: 15px;
+}
+.items-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+/* Bounce Sector */
+
+.bounce{
+    background: linear-gradient(90deg, #F15B22 0%, rgba(240, 80, 35, 0) 100%), url('../images/watch.png');
+    width: 80%;
+    height: 40vh;
+    margin: 9% auto
+}
+.bounce-title{
+    font-size: 40px;
+    color: #FFFF;
+    margin-left: 40px;
+    bottom: 8px;
+    left: 16px;
+    
+}
+.bt{
+    background-color: #FFFF;
+    color: #F15B22;
+    border: none;
+    padding: 12px;
+    border-radius: 2px;
+    margin-left: 40px;
+    margin-top: 10px;
+
+}
+
+/* Footer Sector */
+
+footer{
+    color: #fff;
+    background-color: #151414;
+}
+.Footer-main-area{
+    display: flex;
+    width: 50px;
+
+}
+
+.Footer-title{
+    color: #FFFF;
+    font-size: 30px;
+    width: 50px;
+    margin-left: 80px;
+    margin-top: auto;
+}
+.Footer-sub-title{
+    color: #FFFF;
+    font-size: 16px;
+    width: 485px;
+    margin-bottom: 10px;
+    margin-left: 80px;
+}
+.email{
+    margin-bottom: 10px;
+    margin-left: 80px;
+    
+}
+.media-icon{
+    margin-top: 32px;
+    margin-bottom: 10px;
+    margin-left: 80px;
+}
+
+.Subscribe {
+     text-align: center; 
+     margin-left: 50%;
+     margin-top: 20%;
+     
+
+}
+.s-btn{
+    color: #F15B22;
+    background-color: #fff;
+    
+
+}
