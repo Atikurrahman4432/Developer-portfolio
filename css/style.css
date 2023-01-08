@@ -125,16 +125,22 @@ footer{
     margin-left: 80px;
 }
 
-.Subscribe {
+/*.Subscribe {
      text-align: center; 
      margin-left: 50%;
      margin-top: 20%;
      
 
-}
+}*/
 .s-btn{
     color: #F15B22;
     background-color: #fff;
     
+
+}
+.main-footer{
+    display: flex;
+    justify-content: space-around;
+
 
 }
